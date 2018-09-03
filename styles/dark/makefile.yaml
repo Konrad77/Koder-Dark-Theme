@@ -1,0 +1,30 @@
+# Makefile
+Default:
+    id: 0
+    foreground: "#FFFCFF"
+    background: "#282629"
+Comment:
+    id: 1
+    foreground: "#C1BCC2"
+    background: "#282629"
+Preprocessor:
+    id: 2
+    foreground: "#7f7f9f"
+    background: "#282629"
+    style: [ bold ]
+Identifier:
+    id: 3
+    foreground: "#66BFFF"
+    background: "#282629"
+Operator:
+    id: 4
+    foreground: "#F553BF"
+    background: "#282629"
+Target:
+    id: 5
+    foreground: "#26C99E"
+    background: "#282629"
+Ideol:
+    id: 9
+    foreground: "#646464"
+    background: "#282629"

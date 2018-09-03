@@ -1,0 +1,59 @@
+# XML
+XML Start:
+    id: 12
+    foreground: "#3f7f7f"
+    background: "#282629"
+XML Start:
+    id: 13
+    foreground: "#3f7f7f"
+    background: "#282629"
+Default:
+    id: 0
+    foreground: "#000000"
+    background: "#282629"
+Comment:
+    id: 9
+    foreground: "#3f7f5f"
+    background: "#282629"
+Number:
+    id: 5
+    foreground: "#FFD24A"
+    background: "#282629"
+Double string:
+    id: 6
+    foreground: "#FFD24A"
+    background: "#282629"
+    style: [ italic ]
+Single string:
+    id: 7
+    foreground: "#A4CC35"
+    background: "#282629"
+    style: [ italic ]
+Tag:
+    id: 1
+    foreground: "#66BFFF"
+    background: "#282629"
+Tag end:
+    id: 11
+    foreground: "#66BFFF"
+    background: "#282629"
+Tag unknown:
+    id: 2
+    foreground: "#000000"
+    background: "#282629"
+Attribute:
+    id: 3
+    foreground: "#7f007f"
+    background: "#282629"
+Attribute unknown:
+    id: 4
+    foreground: "#000000"
+    background: "#282629"
+SGML default:
+    id: 21
+    foreground: "#000000"
+    background: "#a6caf0"
+CDATA:
+    id: 17
+    foreground: "#000000"
+    background: "#282629"

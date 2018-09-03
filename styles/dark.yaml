@@ -1,0 +1,48 @@
+# based on Themer default color scheme
+# Copyright (c) 2018 Mikael Konradsson
+# MIT licensed
+Default:
+    id: 32
+    background: "#282629"
+    foreground: "#E0DCE0"
+Current line:
+    background: "#141414"
+Whitespace:
+    foreground: "#7f9fbf"
+Selected text:
+    background: "#474247"
+Caret:
+    foreground: "#FF4050"
+Edge:
+    foreground: "#656066"
+Fold:
+    foreground: "#282629"
+    background: "#474247"
+Indent guideline:
+    id: 37
+    foreground: "#000000"
+    background: "#000000"
+Brace highlight:
+    id: 34
+    foreground: "#26C99E"
+    background: "#282629"
+    style: [ bold ]
+Bad brace:
+    id: 35
+    foreground: "#ff0000"
+    background: "#282629"
+    style: [ bold ]
+Line number:
+    id: 33
+    foreground: "#656066"
+    background: "#282629"
+Smart highlight:
+    background: "#FF4050"
+Find mark:
+    background: "#0000ff"
+Incremental highlight:
+    background: "#00ffff"
+Tags match highlight:
+    background: "#CC78FA"
+Tags attributes:
+    background: "#F553BF"

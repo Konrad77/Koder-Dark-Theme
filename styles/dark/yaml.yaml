@@ -1,0 +1,38 @@
+# YAML
+Default:
+    id: 0
+    foreground: "#FFFCFF"
+    background: "#282629"
+Comment:
+    id: 1
+    foreground: "#C1BCC2"
+    background: "#282629"
+Identifier:
+    id: 2
+    foreground: "#66BFFF"
+    background: "#282629"
+Instruction word:
+    id: 3
+    foreground: "#26C99E"
+    background: "#282629"
+    style: [ bold ]
+Number:
+    id: 4
+    foreground: "#FFD24A"
+    background: "#282629"
+Reference:
+    id: 5
+    foreground: "#3f3fbf"
+    background: "#282629"
+Document:
+    id: 6
+    foreground: "#C1BCC2"
+    background: "#282629"
+Text:
+    id: 7
+    foreground: "#646464"
+    background: "#282629"
+Error:
+    id: 8
+    foreground: "#ff0000"
+    background: "#282629"

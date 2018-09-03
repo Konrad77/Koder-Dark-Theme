@@ -1,0 +1,75 @@
+# C++
+Preprocessor:
+    id: 9
+    foreground: "#66BFFF"
+    background: "#282629"
+    style: [ bold ]
+Default:
+    id: 11
+    foreground: "#FFFCFF"
+    background: "#282629"
+Instruction word:
+    id: 5
+    foreground: "#66BFFF"
+    background: "#282629"
+    style: [ bold ]
+Type word:
+    id: 16
+    foreground: "#66BFFF"
+    background: "#282629"
+    style: [ bold ]
+Number:
+    id: 4
+    foreground: "#FFD24A"
+    background: "#282629"
+String:
+    id: 6
+    foreground: "#A4CC35"
+    background: "#282629"
+Character:
+    id: 7
+    foreground: "#FF4050"
+    background: "#282629"
+Operator:
+    id: 10
+    foreground: "#F553BF"
+    background: "#282629"
+Verbatim:
+    id: 13
+    foreground: "#FF0000"
+    background: "#282629"
+Regexp:
+    id: 14
+    foreground: "#646464"
+    background: "#282629"
+Global class:
+    id: 19
+    foreground: "#26C99E"
+    background: "#282629"
+    style: [ bold ]
+Comment:
+    id: 1
+    foreground: "#C1BCC2"
+    background: "#282629"
+Comment line:
+    id: 2
+    foreground: "#C1BCC2"
+    background: "#282629"
+Comment doc:
+    id: 3
+    foreground: "#3f5fbf"
+    background: "#282629"
+Comment line doc:
+    id: 5
+    foreground: "#66BFFF"
+    background: "#282629"
+Comment doc keyword:
+    id: 17
+    foreground: "#7f9fbf"
+    background: "#282629"
+    style: [ bold ]
+Comment doc keyword error:
+    id: 18
+    foreground: "#7f9fbf"
+    background: "#282629"
+    style: [ bold ]
