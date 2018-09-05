@@ -4,7 +4,7 @@
 - My dark theme for Koder
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Konrad77/HaikuStocks/master/Screenshots/screenshot.png" alt="Icon"/>
+  <img src="https://github.com/Konrad77/Koder-Dark-Theme/blob/master/Screenshots/screenshot1.png" alt="Icon"/>
 </p>
 
 
