@@ -1,16 +1,18 @@
 # Dark Theme for Koder
 ----------------
 
-- My dark theme for Koder
+- My dark theme for [Koder](https://github.com/KapiX/Koder)
 
 <p align="center">
   <img src="https://github.com/Konrad77/Koder-Dark-Theme/blob/master/Screenshots/screenshot1.png" alt="Icon"/>
 </p>
 
+## Limitations
+- C++ only looks oki
+- Feel free to edit the theme and add support for other languages
 
-## Acknowledgements
-----------------
-Icon design by Humdinger
+## Install
+Copy or move files to 'boot/home/config/non-packaged/data/Koder/'
 
 Follow me on:
 [Twitter](https:://twitter.com/konrad1977)
