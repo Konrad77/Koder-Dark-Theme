@@ -10,7 +10,7 @@
 
 ## Limitations
 - C++ only looks oki
-- Feel free to edit the theme and add support for other languages
+- ~~Feel free to edit the theme and add support for other languages~~ Don't, styles system in Koder will be changed to not require a file for each language really soon™
 
 ## Install
 Copy or move files to 'boot/home/config/non-packaged/data/Koder/'
