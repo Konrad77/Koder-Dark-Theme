@@ -9,11 +9,11 @@
 </p>
 
 ## Limitations
-- C++ only looks oki
-- Feel free to edit the theme and add support for other languages
+- C++ is the only language that I tested. I know that some others doesnt work.
+- Feel free to edit the theme and add support for other languages.
 
 ## Install
-Copy or move files to 'boot/home/config/non-packaged/data/Koder/'
+Copy 'styles' or move it to 'boot/home/config/non-packaged/data/Koder/'
 
 Follow me on:
 [Twitter](https:://twitter.com/konrad1977)
