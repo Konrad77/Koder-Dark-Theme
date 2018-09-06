@@ -2,7 +2,7 @@
 ----------------
 
 - My dark theme for [Koder](https://github.com/KapiX/Koder)
-- I am using the 'Fira'-font which I found to be very good for code.
+- I am using the 'Fira'-font in the screenshot above. You can download it using the HaikuDepot.
 
 <p align="center">
   <img src="https://github.com/Konrad77/Koder-Dark-Theme/blob/master/Screenshots/screenshot1.png" alt="Icon"/>
