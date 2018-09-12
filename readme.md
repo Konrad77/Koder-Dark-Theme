@@ -1,16 +1,19 @@
 # Dark Theme for Koder
 ----------------
 
-- My dark theme for Koder
+- My dark theme for [Koder](https://github.com/KapiX/Koder)
+- I am using the 'Fira'-font in the screenshot above. You can download it using the HaikuDepot.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Konrad77/HaikuStocks/master/Screenshots/screenshot.png" alt="Icon"/>
+  <img src="https://github.com/Konrad77/Koder-Dark-Theme/blob/master/Screenshots/screenshot1.png" alt="Icon"/>
 </p>
 
+## Limitations
+- C++ is the only language that I tested. I know that some others doesnt work.
+- Feel free to edit the theme and add support for other languages.
 
-## Acknowledgements
-----------------
-Icon design by Humdinger
+## Install
+Copy 'styles' or move it to 'boot/home/config/non-packaged/data/Koder/'
 
 Follow me on:
 [Twitter](https:://twitter.com/konrad1977)
