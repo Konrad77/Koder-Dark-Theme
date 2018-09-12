@@ -20,8 +20,8 @@ Fold:
     background: "#474247"
 Indent guideline:
     id: 37
-    foreground: "#000000"
-    background: "#000000"
+    foreground: "#474247"
+    background: "#474247"
 Brace highlight:
     id: 34
     foreground: "#26C99E"
